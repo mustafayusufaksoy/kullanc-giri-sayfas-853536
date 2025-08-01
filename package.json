@@ -1,0 +1,14 @@
+{
+  "name": "kullanıcı-giriş-sayfası",
+  "version": "1.0.0",
+  "description": "Next.js ve Firebase kullanarak modern bir kullanıcı giriş ve kayıt sistemi oluşturun. Bu proje, temel kimlik doğrulama akışlarını, form yönetimini ve güvenliği anlamanıza yardımcı olacaktır.",
+  "main": "index.js",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build",
+    "test": "echo \"No tests specified\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
